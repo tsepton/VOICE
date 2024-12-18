@@ -1,5 +1,5 @@
-# VOICE Operating In Contextual Environments (VOICE)
-> VOICE is a voice assistant with contextual awareness. 
+# VOICE Project
+> VOICE Operating In Contextual Environments (VOICE) is a voice assistant with contextual awareness. 
 
 ## Repositories 
 - [VOICE Backend](https://github.com/tsepton/VOICE-backend)  
